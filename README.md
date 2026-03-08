@@ -69,11 +69,11 @@ Task: **Responsive Interactive Navigation Menu**
 
 ## 📎 Author
 
-**Snehal Satre**  
+**Param Shelke**  
 Aspiring Full Stack Developer  
 
 LinkedIn: (Add your LinkedIn link)  
-GitHub: https://github.com/snehalsatre1212
+GitHub: https://github.com/param-atxep
 
 ---
 
